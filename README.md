@@ -114,15 +114,9 @@ The main goal is to perform a competitive analysis of entry-level luxury cars ba
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/rony-99/Entry-level-luxury-car-segment-analysis.git
+   
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   - Use Jupyter Notebook or Jupyter Lab to open `Assignemt_1_Unstructrued_data_analytics.ipynb`.
 
 ---
 
@@ -147,5 +141,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Acknowledgments
 - Course: MSBA F2024, University of Texas at Austin
-- Instructor: [Name of Instructor]
+- Instructor: Dr. Anitesh Barua
 - Resources: [Gary Sieling's Blog](http://www.garysieling.com/blog/exploring-zipfs-law-with-python-nltk-scipy-and-matplotlib), Edmunds.com
